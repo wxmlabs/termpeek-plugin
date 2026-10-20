@@ -1,4 +1,4 @@
-package com.github.simonbennet.termpeekplugin.startup
+package com.wxmlabs.termpeek.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project

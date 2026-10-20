@@ -1,4 +1,4 @@
-package com.github.simonbennet.termpeekplugin
+package com.wxmlabs.termpeek
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

@@ -1,9 +1,9 @@
-package com.github.simonbennet.termpeekplugin.services
+package com.wxmlabs.termpeek.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.simonbennet.termpeekplugin.MyBundle
+import com.wxmlabs.termpeek.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

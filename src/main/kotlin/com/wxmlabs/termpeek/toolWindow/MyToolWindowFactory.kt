@@ -1,4 +1,4 @@
-package com.github.simonbennet.termpeekplugin.toolWindow
+package com.wxmlabs.termpeek.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.simonbennet.termpeekplugin.MyBundle
-import com.github.simonbennet.termpeekplugin.services.MyProjectService
+import com.wxmlabs.termpeek.MyBundle
+import com.wxmlabs.termpeek.services.MyProjectService
 import javax.swing.JButton
 
 
